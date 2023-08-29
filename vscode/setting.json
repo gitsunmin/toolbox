@@ -1,0 +1,31 @@
+{
+  "editor.fontFamily": "D2config, Menlo, Monaco, 'Courier New', monospace",
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.inlineSuggest.enabled": true,
+  "git.autofetch": true,
+  "window.zoomLevel": -0.5,
+  "github.copilot.enable": {
+    "*": true,
+    "plaintext": true,
+    "markdown": true,
+    "scminput": true
+  },
+  "editor.formatOnSave": true,
+  "editor.accessibilitySupport": "off",
+  "editor.inlayHints.enabled": "offUnlessPressed",
+  "javascript.inlayHints.enumMemberValues.enabled": true,
+  "javascript.inlayHints.functionLikeReturnTypes.enabled": true,
+  "javascript.inlayHints.parameterTypes.enabled": true,
+  "javascript.inlayHints.propertyDeclarationTypes.enabled": true,
+  "javascript.inlayHints.parameterNames.enabled": "all",
+  "typescript.inlayHints.parameterNames.enabled": "all",
+  "typescript.inlayHints.parameterTypes.enabled": true,
+  "typescript.inlayHints.propertyDeclarationTypes.enabled": true,
+  "typescript.inlayHints.variableTypes.enabled": true,
+  "typescript.inlayHints.functionLikeReturnTypes.enabled": true,
+  "typescript.inlayHints.enumMemberValues.enabled": true,
+  "javascript.inlayHints.variableTypes.enabled": true,
+  "terminal.external.osxExec": "warp.app",
+  "scm.alwaysShowActions": true,
+  "scm.alwaysShowRepositories": true
+}
