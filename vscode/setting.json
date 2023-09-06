@@ -27,5 +27,6 @@
   "javascript.inlayHints.variableTypes.enabled": true,
   "terminal.external.osxExec": "warp.app",
   "scm.alwaysShowActions": true,
-  "scm.alwaysShowRepositories": true
+  "scm.alwaysShowRepositories": true,
+  "editor.minimap.enabled": false
 }
